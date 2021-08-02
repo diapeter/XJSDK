@@ -1,0 +1,6 @@
+framework module XJSDK {
+  umbrella header "XJSDK.h"
+
+  export *
+  module * { export * }
+}
